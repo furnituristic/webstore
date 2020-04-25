@@ -1,2 +1,2 @@
-# webstore
+# http://webstore.github.io
 Webstore
