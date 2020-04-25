@@ -1,2 +1,2 @@
-# http://webstore.github.io
+# http://furnituristic.github.io
 Webstore
