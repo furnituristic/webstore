@@ -11,7 +11,7 @@ class TransferData: #létrehozom a TransferData osztályt
             dbx.files_upload(f.read(), file_to)
  
 def main():
-    access_token = 'gAn1wHVkcYAAAAAAAAAAFIeAqBzT3F6AiJ685dR_JDrEuJFLwuP0zyDjiKo5yjSX'
+    access_token = 'gAn1wHVkcYAAAAAAAAAAFskV2ZAJvluOD3PWg3JPO3nY_xU-Hm5uWBgiMTfsMT-Y'
     transferData = TransferData(access_token)
  
     file_from = 'D:/Dokumentumok/Biznisz/Code/Site/webstore.github.io/py_app/dbx/dbx_proba.xlsx' # This is name of the file to be uploaded
